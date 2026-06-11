@@ -23,7 +23,7 @@ Platform e-commerce menghadapi tantangan dalam memantau performa penjualan, mema
 
 ## 📊 Dashboard Preview
 
-<img width="1271" height="703" alt="image" src="https://github.com/user-attachments/assets/1ab9ab9e-035a-4c08-a255-46ddd6a180e9" />
+<img width="1305" height="716" alt="image" src="https://github.com/user-attachments/assets/ec257ec3-c776-470f-b8a6-a69b4f674ebc" />
 
 
 ---
